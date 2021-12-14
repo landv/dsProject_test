@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
-'''
+"""
 Created : 2015-03-12
 
 @author: Eric Lapouyade
-'''
+"""
 
 from docxtpl import DocxTemplate, RichText
 
